@@ -30,15 +30,12 @@ Construyo **APIs seguras y escalables**, modernizo sistemas legacy y optimizo ap
 
 ### 1. Sistemas para Fintech y Healthtech
 APIs escalables y seguras con **+1000 requests/día**, optimizadas para producción y mantenibles según **SOLID**.  
-[Ver repositorio](https://github.com/DannySolano)
 
 ### 2. Modernización de sistemas legacy
 Migración de proyectos Node.js, Angular y React a **arquitecturas modulares**. Mejora de mantenibilidad y reducción de deuda técnica.  
-[Ver repositorio](https://github.com/DannySolano)
 
 ### 3. Búsqueda semántica RAG con FAISS
 Sistema de recuperación inteligente de PDFs y documentos complejos, optimizando consultas con chunking y embeddings.  
-[Ver repositorio](https://github.com/DannySolano)
 
 ---
 
