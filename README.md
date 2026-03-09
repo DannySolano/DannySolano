@@ -43,8 +43,6 @@ Sistema de recuperación inteligente de PDFs y documentos complejos.
 
 ![DannySolano GitHub Activity](https://ghchart.rshah.org/DannySolano)
 
-> Esta gráfica muestra mi actividad pública diaria en repositorios.  
-
 ---
 
 ## 🔗 Contacto
