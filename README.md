@@ -41,7 +41,7 @@ Sistema de recuperación inteligente de PDFs y documentos complejos, optimizando
 
 ## 📈 GitHub Stats
 
-![DannySolano GitHub stats](https://github-readme-stats.vercel.app/api?username=DannySolano&show_icons=true&theme=radical)  
+![DannySolano GitHub stats](https://github-readme-stats.vercel.app/api?username=DannySolano&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DannySolano&layout=compact&theme=radical)
 
 ---
