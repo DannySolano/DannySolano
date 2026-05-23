@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Node.js+%7C+TypeScript+%7C+NestJS;Java+%7C+Spring+Boot+%7C+Maven;Prisma+%7C+PostgreSQL+%7C+MongoDB;Docker+%7C+AWS+%7C+CI%2FCD;SOLID+%7C+Clean+Architecture+%7C+TDD" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Node.js+%7C+TypeScript+%7C+NestJS;Java+%7C+Spring+Boot+%7C+Maven;Prisma+%7C+PostgreSQL+%7C+MongoDB;Docker+%7C+AWS+%7C+CI%2FCD;SOLID+%7C+Clean+Architecture+%7C+TDD;Security+%7C+Scalability+%7C+Resilience" />
 
 </div>
 
@@ -77,8 +77,20 @@ philosophy = "Building robust systems that scale gracefully."
 <br><br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge\&logo=node.js\&logoColor=A78BFA)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge\&logo=typescript\&logoColor=A78BFA)
+![NestJS](https://img.shields.io/badge/NestJS-111827?style=for-the-badge\&logo=nestjs\&logoColor=A78BFA)
+
+<br>
+
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge\&logo=openjdk\&logoColor=A78BFA)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge\&logo=springboot\&logoColor=A78BFA)
+![Maven](https://img.shields.io/badge/Maven-111827?style=for-the-badge\&logo=apachemaven\&logoColor=A78BFA)
+
+<br>
+
 ![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge\&logo=amazon-aws\&logoColor=A78BFA)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge\&logo=docker\&logoColor=A78BFA)
+![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge\&logo=prisma\&logoColor=A78BFA)
 
 </div>
 
@@ -94,7 +106,7 @@ philosophy = "Building robust systems that scale gracefully."
 
 | Project                     | Description                                               | Tech Stack                                                   |
 | --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
-| **Fintech API Platform**    | Scalable payment processing with **100+ req/day**        | Node.js, TypeScript, NestJS, PostgreSQL, Prisma, Docker, AWS |
+| **Fintech API Platform**    | Scalable payment processing with **100+ req/day**         | Node.js, TypeScript, NestJS, PostgreSQL, Prisma, Docker, AWS |
 | **Healthtech System**       | HIPAA-compliant medical records API                       | Java, Spring Boot, MongoDB, JWT, AWS RDS                     |
 | **Logistics Microservices** | Real-time tracking and route optimization                 | Node.js, RabbitMQ, Redis, MongoDB, Docker Compose            |
 | **RAG Semantic Search**     | Intelligent PDF retrieval with FAISS                      | Python, FAISS, Transformers, FastAPI                         |
@@ -108,7 +120,23 @@ philosophy = "Building robust systems that scale gracefully."
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DannySolano&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0B0F&title_color=A78BFA&icon_color=C4B5FD&text_color=E5E7EB&count_private=true&include_all_commits=true" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DannySolano&theme=tokyonight" width="100%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DannySolano&theme=tokyonight" height="180"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DannySolano&theme=tokyonight" height="180"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DannySolano&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0B0F&title_color=A78BFA&icon_color=C4B5FD&text_color=E5E7EB&ring_color=8B5CF6&count_private=true&include_all_commits=true" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannySolano&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0B0F&title_color=A78BFA&text_color=E5E7EB&langs_count=6" height="165" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DannySolano&theme=tokyonight&hide_border=true&background=0B0B0F&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=C4B5FD&sideNums=E5E7EB&dates=8B5CF6" width="480" />
 
 </div>
 
@@ -155,5 +183,3 @@ philosophy = "Building robust systems that scale gracefully."
 <img src="https://komarev.com/ghpvc/?username=DannySolano&color=A78BFA&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
-
----
