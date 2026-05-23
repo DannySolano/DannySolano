@@ -157,21 +157,3 @@ philosophy = "Building robust systems that scale gracefully."
 </div>
 
 ---
-
-<div align="center">
-
-### ◈   F E A T U R E D   R E P O S   ◈
-
-<br>
-
-<a href="https://github.com/DannySolano/fintech-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DannySolano&repo=fintech-api&theme=tokyonight&hide_border=true&bg_color=0B0B0F&title_color=A78BFA&icon_color=C4B5FD&text_color=E5E7EB" />
-</a>
-
- 
-
-<a href="https://github.com/DannySolano/rag-semantic-search">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DannySolano&repo=rag-semantic-search&theme=tokyonight&hide_border=true&bg_color=0B0B0F&title_color=A78BFA&icon_color=C4B5FD&text_color=E5E7EB" />
-</a>
-
-</div>
