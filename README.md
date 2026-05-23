@@ -94,7 +94,7 @@ philosophy = "Building robust systems that scale gracefully."
 
 | Project                     | Description                                               | Tech Stack                                                   |
 | --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
-| **Fintech API Platform**    | Scalable payment processing with **1000+ req/day**        | Node.js, TypeScript, NestJS, PostgreSQL, Prisma, Docker, AWS |
+| **Fintech API Platform**    | Scalable payment processing with **100+ req/day**        | Node.js, TypeScript, NestJS, PostgreSQL, Prisma, Docker, AWS |
 | **Healthtech System**       | HIPAA-compliant medical records API                       | Java, Spring Boot, MongoDB, JWT, AWS RDS                     |
 | **Logistics Microservices** | Real-time tracking and route optimization                 | Node.js, RabbitMQ, Redis, MongoDB, Docker Compose            |
 | **RAG Semantic Search**     | Intelligent PDF retrieval with FAISS                      | Python, FAISS, Transformers, FastAPI                         |
