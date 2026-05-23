@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=280&text=Danny%20Solano&fontColor=ffffff&fontSize=60&animation=fadeIn&color=0:0f0c29,100:302b63" width="100%" />
@@ -210,4 +210,3 @@ philosophy = "Building robust systems that scale gracefully."
 </a>
 
 </div>
-```
